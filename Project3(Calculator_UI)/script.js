@@ -14,3 +14,4 @@ function exe(){
 function cancel(){
     val.value=val.value.substr(0,val.value.length-1);
 }
+Footer
