@@ -1,31 +1,31 @@
 body{
-    background-color:rgb(243, 235, 237);
+    background-color:rgb(230, 260, 245);
 }
 table{
-    margin:110px 50px 30px 500px;
-    background-color: rgb(47, 70, 47);
+    margin:150px 70px 90px 500px;
+    background-color: rgb(23, 41, 60);
     
 }
 table,td {
-        border: 3px solid black;
+        border: 10px solid green;
         text-align: center;
      }
 td{
-    height:60px;
-    width:60px;
+    height:80px;
+    width:80px;
     
 }
 #calc{
  width: 250px;
-border: 3px solid black;
+border: 3px solid blue;
 border-radius: 3px;
 padding: 20px;
 margin: auto;
 }
 button{
-    font-size:20px;
-    height:40px;
-    width:40px;
+    font-size:30px;
+    height:60px;
+    width:80px;
 }
 
 
